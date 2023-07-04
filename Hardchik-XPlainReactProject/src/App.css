@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap");
+
+.body {
+  font-family: Outfit;
+  background-image: url("./assets/X BACKGROUND.png") !important;
+  object-fit: fill;
+
+  height: 100vh;
+  width: 99vw;
+
+  background-position: center;
+  background-size: cover;
+}

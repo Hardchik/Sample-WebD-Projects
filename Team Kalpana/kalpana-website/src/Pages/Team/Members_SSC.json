@@ -1,0 +1,29 @@
+[
+    {
+        "id": 3 ,
+        "href":"#preview-1",
+        "img": "7.jpg",
+        "por":"Vice Chairman",
+        "name":"Abhisek",
+        "box_deco":"➃",
+        "box_tagline":""
+    },
+    {
+        "id": 4 ,
+        "href":"#preview-2",
+        "img": "8.jpg",
+        "por":"Chairman",
+        "name":"Mohit",
+        "box_deco":"✞",
+        "box_tagline":""
+    },
+    {
+        "id": 5 ,
+        "href":"#preview-3",
+        "img": "9.jpg",
+        "por":"Vice Chairman",
+        "name":"Suyash",
+        "box_deco":"✰",
+        "box_tagline":"Call it a hurricane or call it freedom, Frank"
+    }
+]
